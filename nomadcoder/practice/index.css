@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+.js-clock {
+    color: rgb(217, 255, 0);
+}
+
+.js-form {
+    color: red;
+}
